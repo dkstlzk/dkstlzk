@@ -1,6 +1,7 @@
 <div align="center">
 
-# hi, i'm anshika 👋
+# hi, i'm Anshika 👋
+
 *building systems that think, search, and scale -*
 *somewhere between distributed architecture and the beauty of a well-placed semicolon*
 
@@ -10,11 +11,11 @@
 
 ---
 
-## 🧠 about me
+## 👩‍💻 about me
 
-CS undergrad at **IIT Jodhpur**, interested in the intersection of AI and infrastructure - semantic search, distributed systems, and systems that stay correct under real-world constraints.
+CS undergrad at **IIT Jodhpur**. Started coding in class 11 out of curiosity - built small games, broke things, fixed them. Somewhere along the way that turned into a genuine interest in how systems are designed at a deeper level.
 
-I've been writing code since class 11. My projects tend to cluster around one question: *can information be organized better?* The answer usually involves embeddings, indexing, and well-reasoned data structures.
+These days I find myself drawn to problems around search, distributed systems, and backend infrastructure. Less "what can I build" and more "how should this actually work."
 
 ---
 
@@ -78,17 +79,11 @@ I've been writing code since class 11. My projects tend to cluster around one qu
 *Jan 2026 - Ongoing*
 `Node.js` `Express` `React` `PostgreSQL` `JWT` `MUI` `Vite` `Docker`
 
-Full-stack room and resource allocation platform for IIT Jodhpur - managing buildings, rooms, equipment, and booking policies across four user roles.
+Full-stack room allocation platform for IIT Jodhpur - buildings, rooms, equipment, and booking policies across four roles (Admin / Staff / Faculty / Student).
 
-- JWT auth with refresh tokens, bcrypt hashing, account lockout, rate limiting
-- RBAC across Admin / Staff / Faculty / Student with per-resource granular permissions
-- Conflict detection, multi-tier approval workflow, configurable booking policies per role
-- Audit logging on every critical mutation - actor, resource, timestamp
-
-```
-React + MUI frontend  →  Express REST API  →  PostgreSQL
-         JWT auth  ·  RBAC middleware  ·  winston logging
-```
+- JWT auth, bcrypt, account lockout, rate limiting
+- RBAC with per-resource granular permissions, multi-tier approval workflow
+- Conflict detection, configurable policies per role, audit logging
 
 ---
 
@@ -96,17 +91,7 @@ React + MUI frontend  →  Express REST API  →  PostgreSQL
 *Jun 2025 - Dec 2025*
 `Python` `Kademlia DHT` `P2P` `Sentence Transformers` `Nomic LLM` `SQLite` `WebRTC`
 
-A search engine that retrieves files by *meaning* rather than filename - across text, images, and PDFs - with no central server.
-
-```
-Embeddings (CLIP / Sentence Transformers / Nomic LLM)
-        |
-  Hierarchical clustering + Kademlia DHT routing
-        |
-  Fully distributed semantic search across peers
-```
-
-No central index. No single point of failure.
+Search engine that finds files by meaning, not filename - text, images, PDFs - with no central server. Uses hierarchical clustering + Kademlia DHT for fully distributed indexing and retrieval.
 
 ---
 
@@ -114,11 +99,7 @@ No central index. No single point of failure.
 *Oct 2025 - Nov 2025*
 `C++` `HashMap` `LRU` `Min-Heap` `Trie` `Bloom Filter` `DAG` `CLI`
 
-A Redis-style in-memory store built from scratch - because data structures shouldn't be an afterthought.
-
-- O(1) ops with TTL expiry, prefix search via Trie, Bloom filter for fast negative lookups
-- DAG-based key dependency tracking with cascade deletes
-- CLI + frontend interface, Top-K analytics, modular engine design
+Redis-style in-memory store built from scratch. O(1) ops, TTL expiry, Trie prefix search, Bloom filter for negative lookups, DAG-based cascade deletes.
 
 ---
 
@@ -126,14 +107,14 @@ A Redis-style in-memory store built from scratch - because data structures shoul
 *Dec 2024 - Apr 2025*
 `React` `GraphQL` `PostgreSQL` `Docker` `Nginx`
 
-Performance work on a relationship visualization platform - optimized React components, reduced unnecessary re-renders with lazy loading, improved responsiveness across complex tree views.
+Performance work on a relationship visualization platform - lazy loading, reduced re-renders, better responsiveness on complex tree views.
 
 ---
 
 ### 🧙 Triwizard Tournament *(C + Raylib)*
 *Mar 2025 - Apr 2025*
 
-Dragon's Egg, Snitch Escape, Dynamic Maze - AI-driven enemies, dynamic maze generation, real-time collision detection, pathfinding. Writing game loops in C forces you to respect every byte.
+Three games in C - Dragon's Egg, Snitch Escape, Dynamic Maze. AI enemies, collision detection, pathfinding, dynamic maze generation. Good excuse to care about every byte.
 
 ---
 
@@ -169,17 +150,15 @@ Dragon's Egg, Snitch Escape, Dynamic Maze - AI-driven enemies, dynamic maze gene
 
 ## 🌱 currently learning
 
-- Distributed systems internals - consensus, replication, CAP
-- Making P2P networking reliable (libp2p is humbling)
-- Systems design at scale
+- Getting into open source - finding my footing, picking up good habits
+- Going deeper into ML - moved past the surface stuff, now into the parts that actually get interesting
+- Systems design at scale - how things hold up when they really shouldn't have to
 
 ---
 
 ## 💭 how I think about building
 
-> *"I want to build systems that organize information better, scale thoughtfully, and have clean internal logic - systems that are useful without being noisy."*
-
-I care about the layer beneath the layer. What does the index look like? How does the node know who to trust? Why this data structure and not that one? That's where the real decisions live.
+I care about the layer beneath the layer - what does the index actually look like, why this data structure and not that one, where does the request go when things break. That's usually where the interesting decisions are.
 
 *P.S. - I also speak German, play guitar, and learned Kathak. Structured systems everywhere.*
 
