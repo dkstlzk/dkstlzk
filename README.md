@@ -11,9 +11,9 @@
 
 ---
 
-## 👩‍💻 about me
+## 🧠 about me
 
-CS undergrad at **IIT Jodhpur**. Started coding in class 11 out of curiosity - built small games, broke things, fixed them. Somewhere along the way that turned into a genuine interest in how systems are designed at a deeper level.
+CS undergrad at **IIT Jodhpur**, part of the **DevlUp Labs Junior Core Team**. Started coding in class 11 out of curiosity - built small games, broke things, fixed them. Somewhere along the way that turned into a genuine interest in how systems are designed at a deeper level.
 
 These days I find myself drawn to problems around search, distributed systems, and backend infrastructure. Less "what can I build" and more "how should this actually work."
 
@@ -123,16 +123,6 @@ Three games in C - Dragon's Egg, Snitch Escape, Dynamic Maze. AI enemies, collis
 - 🎯 **JEE Mains 2024** - AIR 1504 · 99.914 percentile
 - 🏆 **JEE Advanced 2024** - AIR 5677
 - 🇩🇪 **Goethe-Institut A1 Certification** - 100% in German (HSC)
-
----
-
-## 🤝 involvement
-
-- **Member, DevlUp Labs Junior Core Team** - Sep 2025 - Present
-- **Assistant Head, Informal Events** - Ignus, IIT Jodhpur Cult Fest
-- **Assistant Head, Guest Relations** - Sandstone Summit 5.0, IIT Jodhpur
-- **Core Member, Sangam** - Music Society, IIT Jodhpur - Aug 2025 - Present
-- **Core Member, Ateliers** - Fine Arts Club, IIT Jodhpur - Aug 2025 - Present
 
 ---
 
