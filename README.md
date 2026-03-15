@@ -1,6 +1,6 @@
 <div align="center">
 
-# hi, i'm Anshika 👋
+# hi, i'm anshika 👋
 
 *building systems that think, search, and scale -*
 *somewhere between distributed architecture and the beauty of a well-placed semicolon*
