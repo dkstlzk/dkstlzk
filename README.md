@@ -5,7 +5,7 @@
 *building systems that think, search, and scale -*
 *somewhere between distributed architecture and the beauty of a well-placed semicolon*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A9B7D1&center=true&vCenter=true&width=500&lines=CS+%40+IIT+Jodhpur;AI+%2F+ML+%7C+Distributed+Systems+%7C+Semantic+Search;building+things+that+organize+information+better)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A9B7D1&center=true&vCenter=true&width=500&lines=Computer+Science+%40+IIT+Jodhpur;AI+%2F+ML+%7C+Distributed+Systems+%7C+Semantic+Search;building+things+that+organize+information+better)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ## 🧠 about me
 
-CS undergrad at **IIT Jodhpur**, part of the **DevlUp Labs Junior Core Team**. Started coding in class 11 out of curiosity - built small games, broke things, fixed them. Somewhere along the way that turned into a genuine interest in how systems are designed at a deeper level.
+CSE undergrad at **IIT Jodhpur**, part of the **DevlUp Labs Junior Core Team**. Started coding in class 11 out of curiosity - built small games, broke things, fixed them. Somewhere along the way that turned into a genuine interest in how systems are designed at a deeper level.
 
 These days I find myself drawn to problems around search, distributed systems, and backend infrastructure. Less "what can I build" and more "how should this actually work."
 
