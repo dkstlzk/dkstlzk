@@ -130,9 +130,9 @@ Three games in C - Dragon's Egg, Snitch Escape, Dynamic Maze. AI enemies, collis
 
 <div align="center">
 
-![Anshika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dkstlzk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a9b7d1&icon_color=7aa2f7&text_color=c0caf5)
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dkstlzk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a9b7d1&icon_color=7aa2f7&text_color=c0caf5" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dkstlzk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a9b7d1&text_color=c0caf5)
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dkstlzk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a9b7d1&text_color=c0caf5" />
 
 </div>
 
