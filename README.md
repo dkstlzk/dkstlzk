@@ -119,7 +119,7 @@ Three games in C - Dragon's Egg, Snitch Escape, Dynamic Maze. AI enemies, collis
 ---
 
 ## 🏅 achievements
-
+- 💻 **Flipkart Girls Wanna Code 2026** - selected among top 200 nationwide for one-on-one mentorship
 - 🎯 **JEE Mains 2024** - AIR 1504 · 99.914 percentile
 - 🏆 **JEE Advanced 2024** - AIR 5677
 - 🇩🇪 **Goethe-Institut A1 Certification** - 100% in German (HSC)
