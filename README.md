@@ -110,8 +110,6 @@ I enjoy building across backend systems, AI/ML, distributed infrastructure, and 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dkstlzk&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a9b7d1&line=7aa2f7&point=c0caf5&area=true&area_color=7aa2f7)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dkstlzk&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=a9b7d1&currStreakLabel=c0caf5)
-
 </div>
 
 ---
