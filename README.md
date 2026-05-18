@@ -19,16 +19,6 @@ These days I find myself drawn to problems around search, distributed systems, a
 
 ---
 
-## 🚀 technical interests
-
-- **Semantic Search** & Vector Retrieval
-- **Distributed Systems** - P2P, replication, consensus
-- **AI / ML** - embeddings, multi-modal retrieval, LLM tooling
-- **Systems Programming** - memory, performance, correct-by-construction design
-- **Data Structures** - not just using them, understanding *why*
-
----
-
 ## 🛠 tech stack
 
 <div align="center">
@@ -73,51 +63,6 @@ These days I find myself drawn to problems around search, distributed systems, a
 
 ---
 
-## ⭐ featured projects
-
-### 🏗️ URAS - Unified Room Allocation System *(Software Engineering Project)*
-*Jan 2026 - Ongoing*
-`Node.js` `Express` `React` `PostgreSQL` `JWT` `MUI` `Vite` `Docker`
-
-Full-stack room allocation platform for IIT Jodhpur - buildings, rooms, equipment, and booking policies across four roles (Admin / Staff / Faculty / Student).
-
-- JWT auth, bcrypt, account lockout, rate limiting
-- RBAC with per-resource granular permissions, multi-tier approval workflow
-- Conflict detection, configurable policies per role, audit logging
-
----
-
-### 🗂️ FileNest *(Summer RAID x DevlUp Labs)*
-*Jun 2025 - Dec 2025*
-`Python` `Kademlia DHT` `P2P` `Sentence Transformers` `Nomic LLM` `SQLite` `WebRTC`
-
-Search engine that finds files by meaning, not filename - text, images, PDFs - with no central server. Uses hierarchical clustering + Kademlia DHT for fully distributed indexing and retrieval.
-
----
-
-### ⚡ PANCache
-*Oct 2025 - Nov 2025*
-`C++` `HashMap` `LRU` `Min-Heap` `Trie` `Bloom Filter` `DAG` `CLI`
-
-Redis-style in-memory store built from scratch. O(1) ops, TTL expiry, Trie prefix search, Bloom filter for negative lookups, DAG-based cascade deletes.
-
----
-
-### 🌿 Family Tree Optimisation *(DevlUp Labs)*
-*Dec 2024 - Apr 2025*
-`React` `GraphQL` `PostgreSQL` `Docker` `Nginx`
-
-Performance work on a relationship visualization platform - lazy loading, reduced re-renders, better responsiveness on complex tree views.
-
----
-
-### 🧙 Triwizard Tournament *(C + Raylib)*
-*Mar 2025 - Apr 2025*
-
-Three games in C - Dragon's Egg, Snitch Escape, Dynamic Maze. AI enemies, collision detection, pathfinding, dynamic maze generation. Good excuse to care about every byte.
-
----
-
 ## 🏅 achievements
 - 💻 **Flipkart Girls Wanna Code 2026** - selected among top 200 nationwide for one-on-one mentorship
 - 🎯 **JEE Mains 2024** - AIR 1504 · 99.914 percentile
@@ -143,14 +88,6 @@ Three games in C - Dragon's Egg, Snitch Escape, Dynamic Maze. AI enemies, collis
 - Getting into open source - finding my footing, picking up good habits
 - Going deeper into ML - moved past the surface stuff, now into the parts that actually get interesting
 - Systems design at scale - how things hold up when they really shouldn't have to
-
----
-
-## 💭 how I think about building
-
-I care about the layer beneath the layer - what does the index actually look like, why this data structure and not that one, where does the request go when things break. That's usually where the interesting decisions are.
-
-*P.S. - I also speak German, play guitar, and learned Kathak. Structured systems everywhere.*
 
 ---
 
