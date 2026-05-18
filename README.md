@@ -11,39 +11,31 @@
 
 ---
 
-## 🧠 about me
+## 🌿 about me
 
-CSE undergrad at **IIT Jodhpur**, part of the **DevlUp Labs Junior Core Team**. Started coding in class 11 out of curiosity - built small games, broke things, fixed them. Somewhere along the way that turned into a genuine interest in how systems are designed at a deeper level.
+CSE undergrad at **IIT Jodhpur** and part of the **DevlUp Labs Junior Core Team**.
 
-These days I find myself drawn to problems around search, distributed systems, and backend infrastructure. Less "what can I build" and more "how should this actually work."
+Started coding in class 11 by building small games and random projects - eventually got pulled into understanding how systems work underneath the abstraction layer.
+
+I enjoy building across backend systems, AI/ML, distributed infrastructure, and low-level programming - especially projects where the underlying design matters as much as the final result.
 
 ---
 
 ## 🛠 tech stack
-
 <div align="center">
 
-**Languages**
+### 💻 languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-**AI / ML**
+---
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![CLIP](https://img.shields.io/badge/CLIP-412991?style=flat-square&logo=openai&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-**Backend / Systems**
+### ⚙️ backend / systems
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -53,11 +45,31 @@ These days I find myself drawn to problems around search, distributed systems, a
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 
-**Frontend**
+---
+
+### 🧠 ai / ml
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![CLIP](https://img.shields.io/badge/CLIP-412991?style=flat-square&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+---
+
+### 🎨 frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </div>
 
@@ -67,8 +79,8 @@ These days I find myself drawn to problems around search, distributed systems, a
 - 💻 **Flipkart Girls Wanna Code 2026** - selected among top 200 nationwide for one-on-one mentorship
 - 🎯 **JEE Mains 2024** - AIR 1504 · 99.914 percentile
 - 🏆 **JEE Advanced 2024** - AIR 5677
-- 🇩🇪 **Goethe-Institut A1 Certification** - 100% in German (HSC)
-
+- 🇩🇪 **Goethe-Institut A1 Certification · 100% in German (HSC)**
+  
 ---
 
 ## 📊 github stats
@@ -85,10 +97,11 @@ These days I find myself drawn to problems around search, distributed systems, a
 
 ## 🌱 currently learning
 
-- Getting into open source - finding my footing, picking up good habits
-- Going deeper into ML - moved past the surface stuff, now into the parts that actually get interesting
-- Systems design at scale - how things hold up when they really shouldn't have to
-
+- Open source contribution workflows
+- Machine learning beyond the basics
+- Distributed systems internals
+- Backend architecture & systems design
+- Golang and concurrent programming
 ---
 
 ## 📈 github activity
@@ -103,7 +116,7 @@ These days I find myself drawn to problems around search, distributed systems, a
 
 ---
 
-## 📬 find me
+## 📬 find me/connect
 
 <div align="center">
 
@@ -117,6 +130,6 @@ These days I find myself drawn to problems around search, distributed systems, a
 
 <div align="center">
 
-*thanks for reading this far - that already puts you in rare company* 🌙
+*- thanks for reading this far 🌙 -*
 
 </div>
