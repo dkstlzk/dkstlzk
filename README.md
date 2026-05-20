@@ -2,119 +2,90 @@
 
 # hi, i'm anshika 👋
 
-*building systems that think, search, and scale -*
-*somewhere between distributed architecture and the beauty of a well-placed semicolon*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A9B7D1&center=true&vCenter=true&width=500&lines=Computer+Science+%40+IIT+Jodhpur;AI+%2F+ML+%7C+Distributed+Systems+%7C+Backend;building+things+and+learning+along+the+way)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A9B7D1&center=true&vCenter=true&width=500&lines=Computer+Science+%40+IIT+Jodhpur;AI+%2F+ML+%7C+Distributed+Systems+%7C+Semantic+Search;building+things+that+organize+information+better)](https://git.io/typing-svg)
+![](https://komarev.com/ghpvc/?username=dkstlzk&style=flat-square&color=blueviolet)
 
 </div>
 
 ---
 
-## 🌿 about me
+## 👩‍💻 about me
 
-CSE undergrad at **IIT Jodhpur** and part of the **DevlUp Labs Junior Core Team**.
+I'm a B.Tech Computer Science student at IIT Jodhpur, interested in exploring different areas across AI/ML, cybersecurity, quant, distributed systems, and backend engineering.
 
-Started coding in class 11 by building small games and random projects - eventually got pulled into understanding how systems work underneath the abstraction layer.
-
-I enjoy building across backend systems, AI/ML, distributed infrastructure, and low-level programming - especially projects where the underlying design matters as much as the final result.
+- 💡 Interested in systems-oriented engineering and intelligent software
+- 🛠 Usually building side projects or experimenting with new tech
+- 🎶 Also into music, guitar, and creative tech
 
 ---
 
 ## 🛠 tech stack
+
 <div align="center">
 
 ### 💻 languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
----
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,go,postgres&theme=dark" />
 
 ### ⚙️ backend / systems
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-
----
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,docker,linux,git,mongodb&theme=dark" />
 
 ### 🧠 ai / ml
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![CLIP](https://img.shields.io/badge/CLIP-412991?style=flat-square&logo=openai&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" />
 
----
+<br/>
+
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
+<img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white" />
 
 ### 🎨 frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
 
 </div>
 
 ---
 
-## 🏅 achievements
-- 💻 **Flipkart Girls Wanna Code 2026** - selected among top 200 nationwide for one-on-one mentorship
-- 🎯 **JEE Mains 2024** - AIR 1504 · 99.914 percentile
-- 🏆 **JEE Advanced 2024** - AIR 5677
-- 🇩🇪 **Goethe-Institut A1 Certification · 100% in German (HSC)**
-  
----
+## 🏆 achievements
 
-## 📊 github stats
+- 💻 Flipkart Girls Wanna Code 2026 (selected amongst top 200 nationwide)
+- 🎯 JEE Mains 2024 - AIR 1504
+- 🏆 JEE Advanced 2024 - AIR 5677
+- 🇩🇪 Goethe-Institut A1 German Certification · 100/100 in CBSE German
+--- 
+
+## 📊 github stats & activity
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dkstlzk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a9b7d1&icon_color=7aa2f7&text_color=c0caf5" />
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dkstlzk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dkstlzk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a9b7d1&text_color=c0caf5" />
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dkstlzk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 </div>
-
----
-
-## 🌱 currently learning
-
-- Open source contribution workflows
-- Machine learning beyond the basics
-- Distributed systems internals
-- Backend architecture & systems design
-- Golang and concurrent programming
----
-
-## 📈 github activity
-
-<div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dkstlzk&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a9b7d1&line=7aa2f7&point=c0caf5&area=true&area_color=7aa2f7)
 
+---
+
+## ✍️ random dev quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 </div>
 
 ---
 
-## 📬 find me/connect
+## 🤝 connect with me
 
 <div align="center">
 
@@ -124,10 +95,3 @@ I enjoy building across backend systems, AI/ML, distributed infrastructure, and 
 
 </div>
 
----
-
-<div align="center">
-
-*- thanks for reading this far 🌙 -*
-
-</div>
