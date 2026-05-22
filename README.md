@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## 👩‍💻 about me
 
 I'm a B.Tech Computer Science student at IIT Jodhpur, interested in exploring different areas across AI/ML, cybersecurity, quant, distributed systems, and backend engineering.
@@ -52,14 +50,6 @@ I'm a B.Tech Computer Science student at IIT Jodhpur, interested in exploring di
 </div>
 
 ---
-
-## 🏆 achievements
-
-- 💻 Flipkart Girls Wanna Code 2026 (selected amongst top 200 nationwide)
-- 🎯 JEE Mains 2024 - AIR 1504
-- 🏆 JEE Advanced 2024 - AIR 5677
-- 🇩🇪 Goethe-Institut A1 German Certification · 100/100 in CBSE German
---- 
 
 ## 📊 github stats & activity
 
