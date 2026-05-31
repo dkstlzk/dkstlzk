@@ -2,7 +2,7 @@
 
 # hi, i'm anshika 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A9B7D1&center=true&vCenter=true&width=500&lines=Computer+Science+%40+IIT+Jodhpur;AI+%2F+ML+%7C+Distributed+Systems+%7C+Backend;building+things+and+learning+along+the+way)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A9B7D1&center=true&vCenter=true&width=500&lines=Computer+Science+%40+IIT+Jodhpur)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=dkstlzk&style=flat-square&color=blueviolet)
 
@@ -14,7 +14,12 @@ I'm a B.Tech Computer Science student at IIT Jodhpur, interested in exploring di
 
 - 💡 Interested in systems-oriented engineering and intelligent software
 - 🛠 Usually building side projects or experimenting with new tech
-- 🎶 Also into music, guitar, and creative tech
+
+---
+
+## 🌙 outside of code
+
+🎸 Guitar • 🇩🇪 German • 💃 Kathak • 🎵 Music
 
 ---
 
@@ -61,7 +66,11 @@ I'm a B.Tech Computer Science student at IIT Jodhpur, interested in exploring di
 
 </div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dkstlzk&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a9b7d1&line=7aa2f7&point=c0caf5&area=true&area_color=7aa2f7)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dkstlzk&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a9b7d1&line=7aa2f7&point=c0caf5&area=true&area_color=7aa2f7" />
+
+</div>
 
 ---
 
